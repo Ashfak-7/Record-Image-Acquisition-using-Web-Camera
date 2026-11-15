@@ -1,5 +1,8 @@
 
-# Image Capture and Video Processing Using OpenCV
+# Record Image Using Web Camera
+
+## Name:ASHFAK N
+## Reg No:212225230022
 
 ---
 
@@ -151,13 +154,23 @@ cap.release()
 
 ## Output
 
+### i) Write the frame as JPG image
+Captured image is saved as `ASHFAK.jpg`
 
 <img width="512" height="410" alt="image" src="https://github.com/user-attachments/assets/0ea79a99-f288-43f6-b41a-4f4ed4be0345" />
 
+### ii) Display the video
+Live webcam video is displayed
+
 <img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/efc32d16-353a-4afc-8191-dddf9311312d" />
+
+### iii) Display the video by resizing the window
+Video is shown in resized resolution (640 × 480)
 
 <img width="266" height="389" alt="image" src="https://github.com/user-attachments/assets/d7270166-2ef2-4f1a-8299-13fa4042dd3f" />
 
+### iv) Rotate and display the video
+Video is displayed after rotation (90° clockwise)
 
 <img width="297" height="389" alt="image" src="https://github.com/user-attachments/assets/3c5a1a8d-2671-42f6-9bb4-8ba460720bf3" />
 
